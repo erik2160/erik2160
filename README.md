@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A Software Engineer Student</h3>
 
-- 🌱 I’m currently learning **Java, Python**
+- 🌱 I’m currently learning **Java, Javascript**
 
 - 📫 How to reach me **erikfesilva@gmail.com**
 
