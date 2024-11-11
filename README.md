@@ -4,6 +4,9 @@
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=erik2160&show_icons=true&theme=dark"/>
 </div>	
+
+<hr>
+
   <div align="center" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=java,js,cs,py,html,css,react,electron,jest,express,spring,nodejs,mongodb,mysql,postgres,docker,git,gitlab,idea,vscode,postman,figma,linux,arduino" />
