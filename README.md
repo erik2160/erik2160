@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer Student</h3>
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=erik2160&show_icons=true&theme=dark"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=erik2160&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=erik2160&theme=dark&hide_border=false"/>
 </div>	
 
