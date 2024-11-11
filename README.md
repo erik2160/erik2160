@@ -19,9 +19,6 @@
   <img src="https://skillicons.dev/icons?i=java,js,cs,py,html,css,react,electron,jest,express,spring,nodejs,mongodb,mysql,postgres,docker,git,gitlab,idea,vscode,postman,figma,linux,arduino" />
 </a>
   <br />
-
   </div>
-
-  </div>
-
+  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erik2160&show_icons=true&locale=en&layout=compact" alt="erik2160" /></p>
